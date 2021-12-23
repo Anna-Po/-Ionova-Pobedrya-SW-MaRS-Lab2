@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<State Top="0" Left="0" Width="0" Height="0" WindowState="Normal" xmlns="http://br-automation.co.at/AS/State">
+  <TextEdit ID="D:\BrAutomation45\lab2\Logical\Program\Main.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="D:\BrAutomation45\lab2\Logical\Libraries\DriveLib\FB_DriveSM.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="D:\BrAutomation45\lab2\Logical\Libraries\DriveLib\FB_DoorSM.c" CaretLine="40" CaretColumn="25" FirstVisibleLine="71">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="D:\BrAutomation45\lab2\Logical\Libraries\DriveLib\FB_LedSM.c" CaretLine="11" CaretColumn="1" FirstVisibleLine="72">
+    <Bookmarks />
+  </TextEdit>
+</State>
